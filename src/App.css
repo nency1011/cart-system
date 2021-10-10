@@ -1,0 +1,49 @@
+.image-pizza {
+  height: 75px;
+  width: 100px;
+}
+
+.search-div {
+  margin: 20px;
+}
+
+.sort-text {
+  padding-right: 10px;
+}
+
+.error-messages {
+  color: #eb0b0b;
+  font-size: 13px;
+}
+
+.input-group {
+  width: 50% !important;
+}
+
+.pizztext {
+  font-size: 25px;
+  font-weight: 700;
+  color: #db7373;
+  margin-top: 25px;
+}
+
+.order-image {
+  height: 80px;
+  width: 110px;
+}
+
+.table-text {
+  padding-top: 30px !important;
+}
+
+.tabel-text-pop {
+  justify-content: center;
+}
+
+.view-cart-text {
+  font-size: 22px;
+  color: #1aa564;
+  font-weight: 600;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
