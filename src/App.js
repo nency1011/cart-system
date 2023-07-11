@@ -2,6 +2,7 @@ import React from "react";
 import Pizza from "./Pizza";
 import viewCart from "./Pizza/viewCart";
 import "./App.css"
+import Login from "./Pizza/login";
 import {
   BrowserRouter as Router,
   Switch,
@@ -20,6 +21,8 @@ class App extends React.Component {
             <Switch>
               <Route exact path="/" component={Pizza} />
               <Route path="/viewCart" component={viewCart} />
+              <Route path="/login" component={Login} />
+
             </Switch>
           </div>
         </Router>
